@@ -28,7 +28,7 @@ This repo is my "learning in public" commitment. Every query, every script, ever
 |-------|----------|----------|
 | SQL | *Practical SQL* by Anthony DeBarros (2nd Ed) | Jan – Mar 2026 |
 | Python | *Python for Data Analysis* by Wes McKinney (3rd Ed) | Jan – Mar 2026 |
-| Python (Fundamentals)Python Programming in Context by Miller, et al.Jan – Mar 2026 |
+| Python (Fundamentals) | Python Programming in Context by Miller, et al.Jan – Mar 2026 |
 | Practice | LeetCode, DataLemur, StrataScratch | Ongoing |
 
 ---
