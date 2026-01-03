@@ -95,8 +95,8 @@ data-skills-path-journey/
 |-----------|-------------|--------|
 | First SQL query | Jan 2026 | ✅ Done |
 | First Database & Table created | Jan 3, 2026 | ✅ Done |
-| Beginning Data Exploration with SELECT Statement | Jan 3, 2026 |
-| Learned SELECT keyword order (SELECT → FROM → WHERE → ORDER BY) and comparison operators | ✅ Done |
+| Beginning Data Exploration with SELECT Statement | Jan 3, 2026 | ✅ Done |
+| Learned SELECT keyword order (SELECT → FROM → WHERE → ORDER BY) and comparison operators | Jan 3, 2026 | ✅ Done |
 | Complete Practical SQL Ch 1-8 | Jan 31, 2026 | 🔄 In Progress |
 | Complete Practical SQL Ch 9-14 | Feb 28, 2026 | ⏳ Upcoming |
 | Complete Practical SQL | Mar 15, 2026 | ⏳ Upcoming |
