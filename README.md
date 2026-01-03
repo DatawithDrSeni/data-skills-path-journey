@@ -89,6 +89,24 @@ data-skills-path-journey/
 
 ---
 
+### Python Fundamentals (Python Programming in Context)
+
+- [ ] Chapter  1  Introduction to Python
+- [ ] Chapter  2  Playing by the Rules
+- [ ] Chapter  3  Codes and Other Secrets
+- [ ] Chapter  4  Introducing the Python Collections
+- [ ] Chapter  5  Bigger Data: File I/O
+- [ ] Chapter  6  Image Processing
+- [ ] Chapter  7  Data Mining: Cluster Analysis
+- [ ] Chapter  8  Cryptanalysis
+- [ ] Chapter  9  Fractals: The Geometry of Nature
+- [ ] Chapter  10  Planet Objects
+- [ ] Chapter  11  Simulation
+- [ ] Chapter  12  A Hierarchy of Shapes
+- [ ] Chapter  13  Interactive Games
+
+---
+
 ## 🏆 Milestone Goals
 
 | Milestone | Target Date | Status |
