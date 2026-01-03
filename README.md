@@ -28,6 +28,7 @@ This repo is my "learning in public" commitment. Every query, every script, ever
 |-------|----------|----------|
 | SQL | *Practical SQL* by Anthony DeBarros (2nd Ed) | Jan – Mar 2026 |
 | Python | *Python for Data Analysis* by Wes McKinney (3rd Ed) | Jan – Mar 2026 |
+| Python (Fundamentals)Python Programming in Context by Miller, et al.Jan – Mar 2026 |
 | Practice | LeetCode, DataLemur, StrataScratch | Ongoing |
 
 ---
@@ -56,7 +57,7 @@ data-skills-path-journey/
 - [x] Environment setup (PostgreSQL + pgAdmin)
 - [x] Chapter 1: Setting Up Your Coding Environment
 - [x] Chapter 2: Creating Your First Database and Table
-- [ ] Chapter 3: Beginning Data Exploration with SELECT
+- [x] Chapter 3: Beginning Data Exploration with SELECT
 - [ ] Chapter 4: Understanding Data Types
 - [ ] Chapter 5: Importing and Exporting Data
 - [ ] Chapter 6: Basic Math and Stats with SQL
@@ -94,6 +95,8 @@ data-skills-path-journey/
 |-----------|-------------|--------|
 | First SQL query | Jan 2026 | ✅ Done |
 | First Database & Table created | Jan 3, 2026 | ✅ Done |
+| Beginning Data Exploration with SELECT Statement | Jan 3, 2026 |
+| Learned SELECT keyword order (SELECT → FROM → WHERE → ORDER BY) and comparison operators | ✅ Done |
 | Complete Practical SQL Ch 1-8 | Jan 31, 2026 | 🔄 In Progress |
 | Complete Practical SQL Ch 9-14 | Feb 28, 2026 | ⏳ Upcoming |
 | Complete Practical SQL | Mar 15, 2026 | ⏳ Upcoming |
