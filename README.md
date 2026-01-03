@@ -55,7 +55,7 @@ data-skills-path-journey/
 ### SQL (Practical SQL)
 - [x] Environment setup (PostgreSQL + pgAdmin)
 - [x] Chapter 1: Setting Up Your Coding Environment
-- [ ] Chapter 2: Creating Your First Database and Table
+- [x] Chapter 2: Creating Your First Database and Table
 - [ ] Chapter 3: Beginning Data Exploration with SELECT
 - [ ] Chapter 4: Understanding Data Types
 - [ ] Chapter 5: Importing and Exporting Data
@@ -93,6 +93,7 @@ data-skills-path-journey/
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
 | First SQL query | Jan 2026 | ✅ Done |
+| First Database & Table created | Jan 3, 2026 | ✅ Done |
 | Complete Practical SQL Ch 1-8 | Jan 31, 2026 | 🔄 In Progress |
 | Complete Practical SQL Ch 9-14 | Feb 28, 2026 | ⏳ Upcoming |
 | Complete Practical SQL | Mar 15, 2026 | ⏳ Upcoming |
