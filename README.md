@@ -58,7 +58,7 @@ data-skills-path-journey/
 - [x] Chapter 1: Setting Up Your Coding Environment
 - [x] Chapter 2: Creating Your First Database and Table
 - [x] Chapter 3: Beginning Data Exploration with SELECT
-- [ ] Chapter 4: Understanding Data Types
+- [x] Chapter 4: Understanding Data Types
 - [ ] Chapter 5: Importing and Exporting Data
 - [ ] Chapter 6: Basic Math and Stats with SQL
 - [ ] Chapter 7: Joining Tables in a Relational Database
@@ -115,6 +115,7 @@ data-skills-path-journey/
 | First Database & Table created | Jan 3, 2026 | ✅ Done |
 | Beginning Data Exploration with SELECT Statement | Jan 3, 2026 | ✅ Done |
 | Learned SELECT keyword order (SELECT → FROM → WHERE → ORDER BY) and comparison operators | Jan 3, 2026 | ✅ Done |
+I Understanding Data Types in the books | Jan 6, 2026 | ✅ Done |
 | Complete Practical SQL Ch 1-8 | Jan 31, 2026 | 🔄 In Progress |
 | Complete Practical SQL Ch 9-14 | Feb 28, 2026 | ⏳ Upcoming |
 | Complete Practical SQL | Mar 15, 2026 | ⏳ Upcoming |
